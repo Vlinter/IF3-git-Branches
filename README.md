@@ -3,7 +3,9 @@ Groupe de TD
 
 Clément Muret
 
-Gaspard Marty
+
+Gaspard Marty a changé le readme
+
 
 Chenjie LI 
 

@@ -2,5 +2,5 @@
 Groupe de TD
 
 Clément Muret
-
-Chenjie LI 
+Gaspard Marty
+Chenjie LI  

@@ -1,7 +1,8 @@
 # IF3-git-Branches
 Groupe de TD
 
-Clément Muret
+<<<<<<< HEAD
+Clément Muret je change le readme
 <<<<<<< HEAD
 
 
@@ -12,6 +13,3 @@ Chenjie LI a changed the Readme
 
 Maxime Le Floch
 =======
-Gaspard Marty
-Chenjie LI a chnaged the Readme   
->>>>>>> chenjie
